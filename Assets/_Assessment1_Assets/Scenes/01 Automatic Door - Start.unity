@@ -503,9 +503,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180.208
       objectReference: {fileID: 0}
+    - target: {fileID: 3555559859853302314, guid: 3de24e02ba8a7ce47babaae1fdaabdd1, type: 3}
+      propertyPath: m_text
+      value: Color of the Day
+      objectReference: {fileID: 0}
     - target: {fileID: 4115125383619303529, guid: 3de24e02ba8a7ce47babaae1fdaabdd1, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4173614985050530264, guid: 3de24e02ba8a7ce47babaae1fdaabdd1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.0242417
       objectReference: {fileID: 0}
     - target: {fileID: 4402071971147167978, guid: 3de24e02ba8a7ce47babaae1fdaabdd1, type: 3}
       propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.size
