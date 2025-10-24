@@ -813,7 +813,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3197314064414943602, guid: 6daf06d3fcaf646448cd99368f575e59, type: 3}
       propertyPath: m_Name
-      value: Tracking_Menu - Pinnable
+      value: Training Goals panel
       objectReference: {fileID: 0}
     - target: {fileID: 3218338951403839384, guid: 6daf06d3fcaf646448cd99368f575e59, type: 3}
       propertyPath: m_LocalScale.x
@@ -981,11 +981,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 798205858040803325, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
       propertyPath: m_Name
-      value: Two Item Check Rig - Direct Select
+      value: Step1_menu
       objectReference: {fileID: 0}
     - target: {fileID: 1539991880715362220, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1539991880715362220, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1984192759727572885, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
       propertyPath: m_text
@@ -1099,6 +1103,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6703882015853645213, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6958472656778635737, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
+      propertyPath: onCheckFalse.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7128156314744838097, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15.69
@@ -1163,6 +1175,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8278786084377433623, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9208308758735742457, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.12265486
@@ -1178,6 +1194,10 @@ PrefabInstance:
     - target: {fileID: 9218373484380537118, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9218373484380537118, guid: 70a9c549fbf93bc4bad3ae80507ce09b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
