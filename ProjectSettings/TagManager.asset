@@ -5,7 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - CinemachineTarget
-  - Spray
+  - FoamHit
+  - Sprayhit
   layers:
   - Default
   - TransparentFX
