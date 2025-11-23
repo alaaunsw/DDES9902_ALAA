@@ -23,13 +23,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Assessment1_Assets/Scenes/Training Room.unity
     guid: f4fa3ef199245c54481fb997a7ed38ea
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Assessment1_Assets/Scenes/SafetyTraining_scene C.unity
     guid: c6f930dcc4ef427469f29df6f82fc764
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Assessment1_Assets/Scenes/SafetyTraining_scene D.unity
     guid: e6e96a76363b0e1459012f215407bae8
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Assessment1_Assets/Scenes/RealFire scene.unity
     guid: 4276117f32bd90b4dacda0cb88348cc8
   m_configObjects:
