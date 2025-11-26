@@ -7,6 +7,10 @@ TagManager:
   - CinemachineTarget
   - FoamHit
   - Sprayhit
+  - WaterExt
+  - wetext
+  - co2ext
+  - foamext
   layers:
   - Default
   - TransparentFX
