@@ -975,7 +975,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 49137955}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: b848cf5ae2c3fd149a1b50db7824a369, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 5fc82e2e493bf874c870909ee47cd516, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -985,7 +985,7 @@ VideoPlayer:
   m_TargetMaterialProperty: _MainTex
   m_RenderMode: 3
   m_AspectRatio: 2
-  m_DataSource: 0
+  m_DataSource: 1
   m_TimeUpdateMode: 2
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
@@ -993,7 +993,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: 
+  m_Url: https://alaaunsw.github.io/video/Fire%20Extinguisher%20Video%20WebGL.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
